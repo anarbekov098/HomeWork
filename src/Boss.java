@@ -3,6 +3,7 @@ public class Boss {
     private int damage;
     private String defenceType;
 
+
     public int getDamage() {
         return damage;
     }
